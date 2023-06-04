@@ -1,0 +1,46 @@
+Informe de Instalación Free Fire
+
+1. Introducción:
+
+• Este informe tiene como objetivo documentar el proceso de instalación del juego Free Fire en dispositivos móviles. Free Fire es un popular juego de batalla real (battle royale) desarrollado por la compañía vietnamita Garena, que ofrece una emocionante experiencia de combate en la que los jugadores compiten por ser el último sobreviviente en una isla remota. La instalación exitosa del juego es fundamental para garantizar que los jugadores puedan acceder y disfrutar de todas las características y funcionalidades que ofrece.
+
+• Desde su lanzamiento en 2017, se ha convertido en uno de los juegos móviles más populares y aclamados en todo el mundo. Con su emocionante jugabilidad, gráficos impresionantes y una amplia comunidad de jugadores, Free Fire ofrece una experiencia de combate única en la que solo el jugador más hábil y estratégico podrá sobrevivir y convertirse en el último hombre en pie.
+
+2. Objetivo de la instalación:
+
+• El propósito de este informe es registrar el proceso de instalación de Free Fire en diferentes dispositivos móviles y verificar si la instalación se realiza correctamente. Se realizarán pruebas en varios modelos de dispositivos y sistemas operativos (Android / IOs) para garantizar que el juego se pueda instalar de manera fluida y sin problemas en diferentes entornos.
+
+3. Configuración del entorno:
+
+• Dispositivos utilizados: 
+Modelo: Samsung Note 8. Sistema Operativo:  Android. Versión: 9.
+Modelo: Iphone 7 Plus. Sistema Operativo:  IOS.
+Modelo: Moto g8 Play. Sistema Operativo:  Android. Versión: 9.
+Modelo: Samsung J6. Sistema Operativo:  Android. Versión: 8.
+Modelo: Samsung J6. Sistema Operativo:  Android. Versión: 7.
+
+• Requisitos mínimos para correr el juego: Para Android Procesador: MediaTek MT6737M de cuatro núcleos (1.1GHz). GPU: Mali 400. Memoria RAM: 1GB (se recomienda 2GB o más) Almacenamiento: 8GB.  Sistema operativo: Android Nougat o superiores (es decir, versión 4.1 y posteriores). 
+Para IOS  Procesador: Dual-core 1.4 GHz Typhoon (ARM v8-based). GPU PowerVR GX6450 (quad-core graphics). Memoria RAM: 1GB. Almacenamiento: 8GB. Sistema operativo: iOS 9 o superiores.
+
+4.Pasos de instalación:
+
+a) Accedemos a la Play Store, tipeamos Free Fire y tap en Instalar.
+b) Tap en el icono del juego en la pantalla principal.
+c) Aceptar los permisos de acceso
+d) Aguardar que cargue el juego
+e) Seleccionar opción para registrarte
+f) Una vez registrado selecciona tu nivel
+g) Tipea tu apodo.
+h) Selecciona el modo de juego
+i) Observa la zona segura y donde no caer:
+j) ¡Y comienza a jugar!
+
+5. Verificación de la instalación:
+• Pudimos comprobar que el juego se ha instalado correctamente en cada dispositivo.
+• El icono del juego aparece en la pantalla principal y se pueda acceder a él sin problemas.
+• Cómo observación]: Notamos que, tanto la instalación como el abrir el juego requiere de unos minutos no es inmediato. 
+6. Registro de errores:
+• Registramos un error durante la instalación al intentar registrarnos a través de Twitter.
+7. Conclusiones:
+• Para descargar e instalar el juego Free Fire se necesita un celular de gama media alta, ya que requiere de bastante espacio disponible, pesa unos 396 MB y una vez instalado ocupa unos 1,06GB de Almacenamiento.  
+
